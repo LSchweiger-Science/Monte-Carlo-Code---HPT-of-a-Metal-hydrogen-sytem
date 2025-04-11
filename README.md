@@ -1,4 +1,4 @@
-# Monte-Carlo-Code---HPT-of-a-Metal-hydrogen-sytem
+# Monte Carlo Simulation of Metal-Hydrogen Systems under Severe Plastic Deformation
 
 This repository contains a 2D Monte Carlo simulation designed to model the microstructural evolution of binary metal systems — with or without hydrogen — subjected to high-pressure torsion (HPT), a type of severe plastic deformation (SPD).
 
